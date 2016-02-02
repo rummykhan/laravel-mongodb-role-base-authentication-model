@@ -6,8 +6,8 @@
 
 ### Things to Note are
 
-* In AuthController validate method role is added *
-* In register.blade.php two option at registration *
+* In AuthController validate method role is added
+* In register.blade.php two option at registration
 3. In AuthController checked each value i.e. not an array -- Security Issue for MongoDB
 4. In AuthController changed the redirectPath base on the role registering
 5. In App\User.php role method added
